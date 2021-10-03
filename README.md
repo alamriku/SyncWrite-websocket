@@ -1,4 +1,5 @@
-![laravel-websocket-redis-echo-server](https://user-images.githubusercontent.com/32431324/135747653-41167a68-a1bc-4e3d-b6c8-5f8dbcc5bfb8.jpg)
+![laravel-websocket-redis-echo-server](https://user-images.githubusercontent.com/32431324/135747921-29e3d637-b6ce-4732-8de7-4abaad5829c2.jpg)
+
 
 
 # collaborative-code-editing-websocket
